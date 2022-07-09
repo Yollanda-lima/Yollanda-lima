@@ -24,4 +24,4 @@
      
      Uma programadora iniciante apaixaonada por tecnologia
      
-- [Entre em contato pelo meu email](yollandalima123@gmail.com)<br/>
+Entre em contato pelo meu email: yollandalima123@gmail.com

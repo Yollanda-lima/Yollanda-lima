@@ -13,7 +13,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/yohlima)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 )](https://open.spotify.com/user/31hn2y4ulpcnypxscltbtw4tmdza?si=0a98ade21c014755)
- <a href = "mailto:yollandalima123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "yollandalima123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Yollanda GitHub stats](https://github-readme-stats.vercel.app/api?username=Yollanda-lima&show_icons=true&theme=radical)
 

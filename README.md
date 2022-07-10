@@ -1,10 +1,13 @@
 ### Olá! Eu sou a Yollanda 👋
 
 
+
+
  
      
      Uma programadora iniciante apaixaonada por tecnologia
      
+
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yollanda-lima-19826316a/)
@@ -14,10 +17,14 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 )](https://open.spotify.com/user/31hn2y4ulpcnypxscltbtw4tmdza?si=0a98ade21c014755)
  <a href = "mailto:yollandalima123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/79367218/178132473-0aec4b22-28af-4502-8ce0-8927b9f78e74.gif">
 
-![Yollanda GitHub stats](https://github-readme-stats.vercel.app/api?username=Yollanda-lima&show_icons=true&theme=radical)
+![Yollanda GitHub stats](https://github-readme-stats.vercel.app/api?username=Yollanda-lima&show_icons=true&theme=dracula)
 
 ### Tecnologias que tive contato
+
+
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -26,10 +33,11 @@
    <img align="center" alt="js" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="js" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
      <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+     
   
 </div><br/>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yollanda-lima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yollanda-lima&layout=compact&langs_count=7&theme=dracula"/>
 
 
 ![Snake animation](https://github.com/Yollanda-lima/Yollanda-lima/blob/output/github-contribution-grid-snake.svg)

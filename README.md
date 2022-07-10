@@ -31,9 +31,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yollanda-lima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- 
-     
-     Uma programadora iniciante apaixaonada por tecnologia
-     
 
 ![Snake animation](https://github.com/Yollanda-lima/Yollanda-lima/blob/output/github-contribution-grid-snake.svg)

@@ -28,3 +28,5 @@
      Uma programadora iniciante apaixaonada por tecnologia
      
 Entre em contato pelo meu email: yollandalima123@gmail.com
+
+![Snake animation](https://github.com/Yollanda-lima/Yollanda-lima/blob/output/github-contribution-grid-snake.svg)

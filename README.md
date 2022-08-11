@@ -5,7 +5,7 @@
 
  
      
-     Uma programadora apaixaonada por tecnologia
+     Uma programadora apaixonada por tecnologia
      
 
 
